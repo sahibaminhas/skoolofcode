@@ -1,0 +1,8 @@
+*{
+    background-color: rgb(203, 255, 242);
+    letter-spacing: 3px;
+    font-size: medium;
+}
+table, tr, td{
+   border: 2px solid;
+}
